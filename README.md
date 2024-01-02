@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @williamz6
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python
+- 👀 I’m a Software Development with years experience in Python, MYSQL and IT Support
 - 💞️ I’m looking to collaborate on Python Projects
 
 
